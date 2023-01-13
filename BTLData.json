@@ -1,7 +1,7 @@
 {
     "items": [
         {
-            "object_type": "tap",
+            "object_type": "Elements",
             "gltf_link": "https://cdn.glitch.global/d00c6f5a-e8d0-4c5d-8e44-cc92cb147e6b/ElementsComplete.gltf?v=1673574223785",
             "colors": {
                 "color1": "#ff0000",
