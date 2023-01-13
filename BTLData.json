@@ -1,0 +1,31 @@
+{
+    "items": [
+        {
+            "object_type": "tap",
+            "gltf_link": "https://example.com/tap.gltf",
+            "colors": {
+                "color1": "#ff0000",
+                "color2": "#00ff00"
+            },
+            "info_link": "https://example.com/tap_info"
+        },
+        {
+            "object_type": "furniture",
+            "gltf_link": "https://example.com/chair.gltf",
+            "colors": {
+                "color1": "#0000ff",
+                "color2": "#ffff00"
+            },
+            "info_link": "https://example.com/chair_info"
+        },
+        {
+            "object_type": "enclosure",
+            "gltf_link": "https://example.com/enclosure.gltf",
+            "colors": {
+                "color1": "#000000",
+                "color2": "#ffffff"
+            },
+            "info_link": "https://example.com/enclosure_info"
+        }
+    ]
+}
