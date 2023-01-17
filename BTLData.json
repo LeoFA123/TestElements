@@ -1,7 +1,7 @@
 {
     "items": [
         {
-            "object_type": "Elements",
+            "object_type": "Gatesby",
             "gltf_link": "https://cdn.glitch.global/d00c6f5a-e8d0-4c5d-8e44-cc92cb147e6b/GatesbySeperatedWebTest.gltf?v=1673575196107",
             "colors": {
                 "color1": "#ff0000",
@@ -10,7 +10,7 @@
             "info_link": "https://example.com/tap_info"
         },
         {
-            "object_type": "Gatesby",
+            "object_type": "Elements",
             "gltf_link": "https://cdn.glitch.global/d00c6f5a-e8d0-4c5d-8e44-cc92cb147e6b/ElementsComplete.gltf?v=1673574223785",
             "colors": {
                 "color1": "#0000ff",
