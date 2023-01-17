@@ -10,8 +10,8 @@
             "info_link": "https://example.com/tap_info"
         },
         {
-            "object_type": "furniture",
-            "gltf_link": "https://example.com/chair.gltf",
+            "object_type": "Gatesby",
+            "gltf_link": "https://cdn.glitch.global/d00c6f5a-e8d0-4c5d-8e44-cc92cb147e6b/GatesbySeperatedWebTest.gltf?v=1673575196107",
             "colors": {
                 "color1": "#0000ff",
                 "color2": "#ffff00"
