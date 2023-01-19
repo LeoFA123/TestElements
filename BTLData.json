@@ -4,8 +4,8 @@
             "object_type": "TestInteractable",
             "gltf_link": "https://raw.githubusercontent.com/LeoFA123/TestElements/main/TestInteractableItem.gltf",
             "colors": {
-                "color1": "#ff0000",
-                "color2": "#00ff00"
+                "DrawColor": "#ff0000",
+                "HandleColor": "#00ff00"
             },
             "info_link": "https://example.com/tap_info"
         },
