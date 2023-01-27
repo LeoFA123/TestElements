@@ -2,9 +2,10 @@
     "items": [
         {
             "object_type": "Elements",
-            "gltf_link": "https://cdn.glitch.global/d00c6f5a-e8d0-4c5d-8e44-cc92cb147e6b/ElementsComplete.gltf?v=1673574223785",
+            "gltf_link": "https://raw.githubusercontent.com/LeoFA123/TestElements/main/ElementsComplete.gltf",
             "handle_col": "#0010ff",
             "mesh_col": "#ffff00",
+            "mesh_texture": "https://example.com/chair_info",
             "info_link": "https://example.com/chair_info"
         },
         {
