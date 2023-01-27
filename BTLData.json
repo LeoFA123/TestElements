@@ -3,15 +3,15 @@
         {
             "object_type": "Elements",
             "gltf_link": "https://cdn.glitch.global/d00c6f5a-e8d0-4c5d-8e44-cc92cb147e6b/ElementsComplete.gltf?v=1673574223785",
-            "color1": "#0000ff",
-            "color2": "#ffff00",
+            "handleCol": "#0000ff",
+            "MeshCol": "#ffff00",
             "info_link": "https://example.com/chair_info"
         },
         {
             "object_type": "Gatesby",
             "gltf_link": "https://raw.githubusercontent.com/LeoFA123/TestElements/main/GatesbyInteract.gltf",
-            "color1": "#41FF2B",
-            "color2": "#7438FF",
+            "handleCol": "#41FF2B",
+            "MeshCol": "#7438FF",
             "info_link": "https://example.com/enclosure_info"
         }
     ]
