@@ -2,7 +2,7 @@
     "items": [
         {
             "object_type": "Elements",
-            "gltf_link": "https://raw.githubusercontent.com/LeoFA123/TestElements/main/ElementsComplete.gltf",
+            "gltf_link": "https://raw.githubusercontent.com/LeoFA123/TestElements/main/ElementsUnit.gltf",
             "handle_col": "#0010ff",
             "mesh_col": "#ffff00",
             "mesh_texture": "https://github.com/LeoFA123/TestElements/blob/main/SevilleOak.JPG",
