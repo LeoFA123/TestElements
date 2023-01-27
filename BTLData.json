@@ -13,6 +13,7 @@
             "gltf_link": "https://raw.githubusercontent.com/LeoFA123/TestElements/main/GatesbyInteract.gltf",
             "handle_col": "#41FF2B",
             "mesh_col": "#7438FF",
+            "mesh_texture": "https://github.com/LeoFA123/TestElements/blob/main/SevilleOak.JPG",
             "info_link": "https://example.com/enclosure_info"
         }
     ]
