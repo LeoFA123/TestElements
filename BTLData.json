@@ -5,7 +5,7 @@
             "gltf_link": "https://raw.githubusercontent.com/LeoFA123/TestElements/main/ElementsComplete.gltf",
             "handle_col": "#0010ff",
             "mesh_col": "#ffff00",
-            "mesh_texture": "https://example.com/chair_info",
+            "mesh_texture": "https://github.com/LeoFA123/TestElements/blob/main/SevilleOak.JPG",
             "info_link": "https://example.com/chair_info"
         },
         {
